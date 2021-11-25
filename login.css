@@ -1,0 +1,38 @@
+body{ 
+  
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+h2{
+    color: blue;
+}
+
+ label{
+    width:100px ;
+    display: inline-block;
+    margin: 4px;
+}
+.tp{
+    font-size: 20px;
+}
+.contenair{
+    background: rgba(0, 0, 0, 0.199);
+    position: absolute;
+    right: 40%;
+    top: 225px;
+    border-radius:10px ;
+    color: white;
+    width: 300px;
+    padding: 4px;
+
+}
+h2{
+    text-align: center;
+}
+#submit{
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgba(255, 0, 0, 0.555);
+}
