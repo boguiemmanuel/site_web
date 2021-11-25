@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h1 align="center">Bienvenue!</h1>
+<h1 style = text-align:center>Bienvenue!</h1>
     <?php
 if (isset($_POST['submit'])){
    
