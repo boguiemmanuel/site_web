@@ -1,0 +1,15 @@
+BACK-END
+1-Ranger les images dans un dossier et actualiser la reference dans le script java
+2-Faire un script login pour sécuriser les pages
+3-Revoir l entete
+4-La page A propos est en fin du menu
+
+FRONT-END
+3-Mettre l emploi du temps dans un tableau
+
+GENERAL
+1-Definir la structure des pages
+2-Definir les diffrents liens d'acces aux autres pages
+3-Definir le but de chaque page
+4-Faire une page admin pour la gestion des login (Tables, pages, css, etc)
+etc
